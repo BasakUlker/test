@@ -1,2 +1,2 @@
 # learning git
-explanations
+EXPLANATIONS
